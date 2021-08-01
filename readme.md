@@ -1,6 +1,5 @@
 # Bouncing balls across the screen using Javascript
 ___
-
 # Description
 ___
 A class project using HTML, CSS and Javascript to make balls bounce across the screen. 
