@@ -3,7 +3,7 @@
 # Description
 A class project using HTML, CSS and Javascript to make balls bounce across the screen. 
 It basically takes 2 div elements and uses CSS to turn them into balls.
-From there I use Javascript to move the ball aroudn the screen inside of a box. 
+From there I use Javascript to move the ball around a box. 
  
 # Installation
 There isn't any instalation needed, simply download the HTML file and open it in your browser. 
@@ -15,7 +15,7 @@ Once you open the HTML file the balls should start moving right away.
 If there are any issues you can email me or reach out to me on LinkdenIn
 
 # Roadmap: 
-Coming soon is the balls bouncing in the browser space for a square.
+Coming soon is the balls bouncing in the browser space instead of a square.
 On the list: balls appear on click. 
 
 # License information: 
