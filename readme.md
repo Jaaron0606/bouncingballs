@@ -15,8 +15,8 @@ Once you open the HTML file the balls should start moving right away.
 If there are any issues you can email me or reach out to me on LinkdenIn
 
 # Roadmap: 
-Coming soon is the balls bouncing in the browser space instead of a square.
-On the list: balls appear on click. 
+Last Update: 8.6.2021 (added logic for balls bouncing inside browser window)
+Coming soon: balls appear on click
 
 # License information: 
 This project is licensed through MIT XPRO Web Development certificate course. 
