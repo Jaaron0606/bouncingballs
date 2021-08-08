@@ -15,7 +15,7 @@ Once you open the HTML file the balls should start moving right away.
 If there are any issues you can email me or reach out to me on LinkdenIn
 
 # Roadmap: 
-Last Update: 8.6.2021 (added logic for balls bouncing inside browser window)
+Last Update: 8.6.2021 (added logic for balls bouncing inside browser window).  
 Coming soon: balls appear on click
 
 # License information: 
