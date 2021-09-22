@@ -9,13 +9,13 @@ From there I use Javascript to move the ball around a box.
 There isn't any instalation needed, simply download the HTML file and open it in your browser. 
 
 # Usage 
-Once you open the HTML file the balls should start moving right away. 
+Once you open the HTML file the ball should start moving right away. 
 
 # Support
 If there are any issues you can email me or reach out to me on LinkdenIn
 
 # Roadmap: 
-Last Update: 8.6.2021 (added logic for balls bouncing inside browser window).  
+Last Update: 9.21.2021 (code cleanup)  
 Coming soon: balls appear on click
 
 # License information: 
